@@ -1,0 +1,31 @@
+    {
+        "isStage": false,
+        "name": "Sprite1",
+        "variables": {},
+        "lists": {},
+        "broadcasts": {},
+        "blocks": {},
+        "comments": {},
+        "currentCostume": 0,
+        "costumes": [
+          {
+            "assetId": "cd21514d0531fdffb22204e0ec5ed84a",
+            "name": "costume1",
+            "bitmapResolution": 1,
+            "md5ext": "cd21514d0531fdffb22204e0ec5ed84a.svg",
+            "dataFormat": "svg",
+            "rotationCenterX": 44,
+            "rotationCenterY": 44
+          }
+        ],
+        "sounds": [],
+        "volume": 100,
+        "layerOrder": 1,
+        "visible": true,
+        "x": 0,
+        "y": 0,
+        "size": 100,
+        "direction": 90,
+        "draggable": false,
+        "rotationStyle": "all around"
+    }

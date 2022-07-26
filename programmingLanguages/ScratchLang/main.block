@@ -1,0 +1,7 @@
+make sprite Bob
+loop 5
+    move(10)
+end
+loop 10
+    move(8)
+end
