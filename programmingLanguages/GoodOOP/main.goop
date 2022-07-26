@@ -1,0 +1,6 @@
+var test = "amgous";
+printTest();
+function printTest(){
+    print "Test";
+    print test;
+}
