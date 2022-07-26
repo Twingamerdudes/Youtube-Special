@@ -1,0 +1,42 @@
+{
+  "group": "op",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "troll_hecks:heart"
+    },
+    "1": {
+      "item": "minecraft:nether_star"
+    },
+    "2": {
+      "item": "troll_hecks:heart"
+    },
+    "3": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "4": {
+      "item": "minecraft:netherite_sword"
+    },
+    "5": {
+      "item": "minecraft:totem_of_undying"
+    },
+    "6": {
+      "item": "troll_hecks:heart"
+    },
+    "7": {
+      "item": "minecraft:nether_star"
+    },
+    "8": {
+      "item": "troll_hecks:heart"
+    }
+  },
+  "result": {
+    "item": "troll_hecks:heart_sword",
+    "count": 1
+  }
+}
